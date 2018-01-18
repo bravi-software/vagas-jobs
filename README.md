@@ -8,13 +8,12 @@ Veja as [vagas disponíveis no site](http://www.bravi.com.br/#jobs).
 
 ### Encontre vagas como
 
-- Vaga para desenvolvedor Node / JavaScript
+- Vaga para desenvolvedor Full Stack (Node.js)
+- Vaga para desenvolvedor Python / Backend
 - Vaga para desenvolvedor Python / Data Scientist
-- Vaga para desenvolvedor front-end
-- Vaga para desenvolvedor Full Stack
 - Vaga para QA
-- Vaga para marketing
-- Vaga para gerente de projetos
+- Vaga para Marketing
+- Vaga para Gerente de Projetos (PM)
 
 ## Trabalhamos com
 
@@ -28,24 +27,23 @@ Veja as [vagas disponíveis no site](http://www.bravi.com.br/#jobs).
 
 ### Banco de dados / broker
 
-- Postgre
+- Postgres
 - mySQL
 - MongoDb
 - Cassandra
 - Rabbit MQ
 - Elasticsearch
 
-### Ferramentas / outros
+### Frameworks / Ferramentas / outros
 
 - Node.js
-- Axios
-- Babel
+- Angular
 - React / Flux / Redux
 - Webpack
+- Babel
 
-### Infra / source control
+### Infra / Source Control
 
-- Docker
 - Git / GitLab
-- Jenkins
-
+- Docker
+- Kubernetes
